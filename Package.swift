@@ -18,7 +18,7 @@ let package = Package(
     ),
     .binaryTarget(
        name: "Lokalise",
-       url: "https://github.com/lokalise/lokalise-ios-framework/raw/master/Lokalise.xcframework.zip",
+       url: "https://github.com/Foboz/lokalise-ios-framework/raw/swiftpm_local/Lokalise.xcframework.zip",
        checksum: "2d26c78452fed3b29889d6c8e5bebc520b3d2acf400c82dde8d29100bc67ef7e"
     )
   ]
